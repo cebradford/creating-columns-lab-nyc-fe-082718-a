@@ -51,12 +51,13 @@ img:hover {
 .column{
  display: inline-block;
  position: relative;
+ float: left;
 }
 
 /* create your tile classes! we recommend .small .med .large */
 .small{
   width: 33.3%;
-  position: absolute;
+  
 }
 
 .med{
